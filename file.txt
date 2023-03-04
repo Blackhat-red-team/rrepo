@@ -1,1 +1,2 @@
 fist line in git file 
+second line in file.txt 
